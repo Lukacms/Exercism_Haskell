@@ -8,7 +8,6 @@ cabal-dev
 *.chs.h
 *.dyn_o
 *.dyn_hi
-*.cabal
 .hpc
 .hsenv
 .cabal-sandbox/
@@ -22,6 +21,3 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
-
-# for exercism files
-.exercism

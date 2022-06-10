@@ -24,5 +24,4 @@ cabal.project.local~
 .ghc.environment.*
 
 # for exercism files
-HELP.md
 .exercism
